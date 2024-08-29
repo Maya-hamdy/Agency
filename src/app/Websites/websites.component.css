@@ -1,0 +1,26 @@
+.websites{
+    text-align:center;
+}
+.webs{
+    display: inline-block;
+    text-align:center;
+    width: 22%;
+    margin-left: 23px;
+    padding: 60px 0;
+}
+.svg1{
+    width:60%;
+    height:50px;
+}
+.svg2{
+    width:60%;
+    height:50px;
+}
+.svg3{
+    width:60%;
+    height:50px;
+}
+.svg4{
+    width:60%;
+    height:48px;
+}

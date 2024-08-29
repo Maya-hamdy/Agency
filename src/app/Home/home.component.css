@@ -1,0 +1,76 @@
+
+.home{
+    width: 100%;
+    height: 100vh;
+    background-image: url(../../../public/assets/header-bg.jpg) ;
+    background-size: cover ;
+    background-position: center center;
+    background-attachment: fixed;
+    color: white;
+    margin-bottom: 100px ;
+}
+nav{
+    /* background-color: aquamarine; */
+    width:95%;
+    margin: auto; 
+    padding:10px;
+    
+}
+nav li{
+    list-style: none;
+    width:15%;
+    display:inline-block;
+    margin-left: 25px !important;
+}
+.nav-items a{
+    text-decoration: none;
+    font-size: 26px;
+    color: white;
+    margin-left: 20px;
+}
+nav a:hover{
+    color: #ffc800;
+}                
+.nav-logo{
+    display:inline-block;
+    width: 20%;
+    /* background-color: brown; */
+}
+.nav-items{
+    display:inline-block;
+    width:40%;
+    /* background-color: darkgoldenrod; */
+    margin-left: 500px;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.home-content{
+    width:60%;
+    margin:auto;
+    /* background-color: #ffc800; */
+    text-align:center;
+    margin-top: 200px;
+}
+.home-content a{
+    text-decoration: none;
+    color: white;
+}
+.home-content p{
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+.home-content h1{
+    font-size: 4.5rem;
+    margin-bottom: 55px;
+}
+.home-content button{
+    padding:20px;
+    border-radius: 5px;
+    background-color: #ffc800;
+    color: white;
+    font-size: 26px;
+    border: 1px solid #ffc800;
+}
+.home-content button:hover{
+    background-color: #cca929;
+}

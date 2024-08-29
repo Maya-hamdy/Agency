@@ -1,0 +1,44 @@
+.services{
+    width:100%;
+    margin: auto;
+    text-align:center;
+    margin-bottom: 130px;
+}
+.services h2{
+    font-size: 40px;
+}
+.services p{
+    margin-top: 25px;
+    font-size: 18px;
+    font-style: italic;
+    color: #6c757d !important;
+}
+.services-content{
+    width: 92%;
+    margin: auto;
+    margin-top: 60px;
+}
+.services-content h3{
+    margin-top: 15px ;
+    margin-bottom: 16px;
+    font-size: calc(1.275rem + 0.3vw);
+    text-align: center;
+}
+.services-content pre{
+    margin-top: 25px;
+    font-size: 14px;
+    line-height: 1.75;
+    font-style: normal;
+    color: #6c757d;
+}
+.services-content .card{
+    width: 30%;
+    display: inline-block;
+    margin-left: 23px;
+}
+.img{
+    border-radius: 50%;
+}
+.card{
+    border: none;
+}
